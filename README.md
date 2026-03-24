@@ -25,9 +25,9 @@ Passionate about creating secure, scalable, and efficient digital solutions that
 
 Feel free to reach out if you're working on exciting projects or need a reliable developer for your next big idea!
 
-- **Email**: [your.email@example.com](mailto:shifat76890.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/saleh-ahmad-sifat)
-- **Portfolio**: [yourwebsite.com](https://sifat.xyz)
+- **Email**: [shifat76890@example.com](mailto:shifat76890@example.com)
+- **LinkedIn**: [linkedin.com/in/saleh-ahmad-sifat](https://linkedin.com/in/saleh-ahmad-sifat)
+- **Portfolio**: [sifat.com](https://sifat.xyz)
 
 ---
 
