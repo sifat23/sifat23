@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sifat
 
-Results-driven **Web Developer** with **5+ years** of international experience in building and scaling high-performance web applications.
+Results-driven **Web Developer** with **6+ years** of international experience in building and scaling high-performance web applications.
 
 ## 💫 About Me
 
