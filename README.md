@@ -1,37 +1,118 @@
-# Hi 👋, I'm Sifat
+<div align="center">
 
-Results-driven **Web Developer** with **6+ years** of international experience in building and scaling high-performance web applications.
+# Saleh Ahmad
+### Full-Stack Web Developer · Laravel Specialist · DevOps Enthusiast
 
-## 💫 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-sifat.xyz-0F6E56?style=flat-square&logo=globe&logoColor=white)](https://sifat.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saleh--ahmad--sifat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-ahmad-sifat)
+[![Email](https://img.shields.io/badge/Email-sendtosifat@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sendtosifat@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-888780?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-I specialize in modern full-stack development with a strong focus on **Laravel**, **React**, **Vue**, and **Nuxt.js**. I have deep expertise in database design, system architecture, and DevOps practices.
-
-Passionate about creating secure, scalable, and efficient digital solutions that drive real business value. Experienced in leading teams, optimizing development workflows, and delivering complex projects from concept to production.
-
-### 🚀 Key Expertise
-
-- **Web Development**: PHP (Laravel), JavaScript (React.js, Vue.js, Nuxt.js), TypeScript, jQuery
-- **Database Management**: MySQL, Postgres, Query Optimization, Schema Design
-- **DevOps & Infrastructure**: CI/CD pipelines, Docker, VPS setup & optimization
-- **Version Control & Workflow**: Git, Agile/Scrum methodologies
-- **Other Skills**: RESTful API Development, System Architecture, Multi-tenancy, Role-Based Access Control (RBAC), Cross-team Collaboration
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 📫 Let's Connect
-
-Feel free to reach out if you're working on exciting projects or need a reliable developer for your next big idea!
-
-- **Email**: [shifat76890@example.com](mailto:shifat76890@example.com)
-- **LinkedIn**: [linkedin.com/in/saleh-ahmad-sifat](https://linkedin.com/in/saleh-ahmad-sifat)
-- **Portfolio**: [sifat.com](https://sifat.xyz)
-- **Facebook**: [Saleh Ahmad Sifat](https://www.facebook.com/salehahmed.sifat)
-- **LinkedIn**: [Saleh Ahmad](https://linkedin.com/in/saleh-ahmad-sifat)
+</div>
 
 ---
 
-⭐ **Open to collaboration** on interesting Laravel, React, or Vue.js projects!
+## About Me
+
+Results-driven Full-Stack Web Developer with **6+ years** of international experience building and scaling high-performance web applications. I specialize in **Laravel**, **React**, **Vue.js**, and **Nuxt.js**, with deep expertise in database architecture, system design, and DevOps.
+
+I've delivered secure, scalable digital solutions for **UK and Japan-based clients** — from LMS platforms handling 100,000+ users to multi-tenant SaaS products with complex RBAC systems. Comfortable leading small teams, setting up CI/CD pipelines, and owning infrastructure from development to production.
+
+> Currently building an EdTech LMS platform (remote, London) · Open to freelance & collaboration
 
 ---
+
+## Tech Stack
+
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009639?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Work Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Apr 2025 – Present | Web Developer (Contract) | Merit Tutors — London, UK (Remote) |
+| Dec 2024 – Mar 2025 | Web Application Developer | Accord Technologies — Dhaka, Bangladesh |
+| Sep 2023 – Nov 2024 | Senior Backend Developer | Revo Interactive — Dhaka, Bangladesh |
+| Mar 2020 – Aug 2023 | Junior Backend Developer | Revo Interactive — Dhaka, Bangladesh |
+
+---
+
+## Key Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[MeritStudyResource](#)** | Scalable LMS for international clients · 100k+ users | Laravel, React.js |
+| **[Timeclock – EMS](#)** | Automated employee time tracking & payroll system | Laravel, MySQL, Vue.js |
+| **[Remedive](#)** | E-commerce platform for medicine supply & appointment scheduling | Laravel, MySQL |
+| **[Thyme](#)** | Medical examination support platform (Japan) | Laravel, Vue.js |
+| **[Hie.li](#)** | Free, secure URL shortener with analytics | Laravel, Vue.js |
+
+---
+
+## Key Achievement
+
+**Remote Workforce Tracking System — Timezone & Multi-tenancy Architecture**
+
+Identified critical attendance log inconsistencies caused by multi-timezone users across DST-adjusted regions. Designed and implemented a PHP/MySQL system that automatically adjusts for user-specific time zones and daylight savings. Built multi-tenant RBAC allowing each organization to independently configure access rules without affecting other tenants.
+
+---
+
+## Currently Learning
+
+- `GoLang` — systems-level programming
+- Advanced CI/CD · AWS cloud deployment patterns
+- AI Tools integration in web development workflows
+
+---
+
+## Education
+
+**B.Sc. in Computer Science & Engineering**
+Daffodil International University, Dhaka — *2015–2019* · CGPA 3.55 / 4.00
+
+---
+
+## Languages
+
+- **English** — Professional working proficiency
+- **Bengali** — Native
+
+---
+
+<div align="center">
+
+**Open to collaboration on Laravel, Vue.js, and React projects.**
+[Let's connect →](mailto:sendtosifat@gmail.com)
+
 [![](https://visitcount.itsvg.in/api?id=sifat23&icon=10&color=6)](https://visitcount.itsvg.in)
+
+</div>
